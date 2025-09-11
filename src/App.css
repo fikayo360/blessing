@@ -53,6 +53,17 @@
   transition: all 0.3s ease;
 }
 
+#downloadLink{
+  color: rgb(110, 12, 110);
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+#downloadLink:hover{
+   color: rgb(65, 2, 65);
+}
+
 .mobile-nav {
   position: fixed;
   top: 0;
