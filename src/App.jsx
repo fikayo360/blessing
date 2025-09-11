@@ -168,7 +168,7 @@ function App() {
                 <span>2025</span>
               </div>
             </div>
-            <div className="portfolio-item">
+            <div className="portfolio-item"> 
               <img src="futwrk2.png" alt="Open Coworking" />
               <div className="portfolio-info">
                 <h3>Future of work[2] </h3>
