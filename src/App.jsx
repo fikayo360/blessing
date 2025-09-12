@@ -440,7 +440,7 @@ function App() {
                 
                  <a href="mailto:blessingomojowo@student.oauife.edu.ng">Email me</a>
                 <a href="https://www.linkedin.com/in/blessing-omojowo/">linkedIn</a>
-                <a href="https://www.instagram.com/blessing_omojowo/?hl=en">Instagram</a>
+                <a href="https://www.instagram.com/blessing_omojowo-250a84286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Instagram</a>
               </div>
             </div>
 
