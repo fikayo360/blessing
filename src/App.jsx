@@ -358,7 +358,7 @@ function App() {
                 <img src="https://www.svgrepo.com/show/361494/figma-logo.svg" />
                 </div>
               <h3>Figma</h3>
-              <span className="service-number">[07]</span>
+              <span className="service-number">[08]</span>
               <p>
                 Once you've moved in, we remain available for small updates, clarifications, or seasonal adjustments.
                 Good design continues to evolve with how you live.
@@ -370,7 +370,7 @@ function App() {
                 <img src="https://www.svgrepo.com/show/305835/canva.svg" />
                 </div>
               <h3>Canva</h3>
-              <span className="service-number">[07]</span>
+              <span className="service-number">[09]</span>
               <p>
                 Once you've moved in, we remain available for small updates, clarifications, or seasonal adjustments.
                 Good design continues to evolve with how you live.
@@ -382,7 +382,7 @@ function App() {
 
 <section id="portfolio" className="portfolio section">
         <div className="container">
-          <div className="section-label">[02] My Certifications</div>
+          <div className="section-label"> My Certifications</div>
           <h2 className="portfolio-title">
             Certifications received over the years
           </h2>
