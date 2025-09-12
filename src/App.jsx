@@ -469,7 +469,7 @@ function App() {
             <div className="footer-logo">Blessing.</div>
             <div className="footer-credits">
               <span>Fikayo © 2025</span>
-              <span>Built by <a href='https://fikayobytes.netlify.app/' style={{color:'purple'}}>Fikayo the badass</a></span>
+              <span>Built by <a href='https://fikayobytes.netlify.app/' style={{color:'purple'}}>Fikayo</a></span>
               <a href="#top">Back to top ↑</a>
             </div>
           </div>
