@@ -114,7 +114,7 @@ function App() {
             </div>
             <div className="location">
               <span>Architecture student based in</span>
-              <span>Lagos</span>
+              <span>Nigeria</span>
             </div>
           </div>
         </div>
@@ -460,8 +460,7 @@ function App() {
 
               <div className="footer-col">
                 <h4>Address</h4>
-                <p>26, <br />Solape Owuru str. Ago palace
-                  way, Okota , Lagos State, Nigeria</p>
+                <p>26, <br /> Ago palace way, Okota , Lagos State, Nigeria</p>
               </div>
             </div>
           </div>
