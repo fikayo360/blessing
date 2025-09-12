@@ -79,9 +79,9 @@ function App() {
             </div>
 
            <ul className='nav-center'>
-              <li>about</li>
-               <li>portfolio</li>
-                <li>skills</li>
+                 <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#services">Skills</a></li>
            </ul>
 
             <button className="menu-button" onClick={toggleNav}>
@@ -300,8 +300,7 @@ function App() {
                <h3>drating</h3>
               <span className="service-number">[04]</span>
               <p>
-                We prepare the technical drawings and documents needed for permitting and construction.
-                We also coordinate with consultants to ensure all plans are aligned and ready for review.
+                creating acuurate technical drawings that clearly communicate design intent and construction details.
               </p>
             </div>
 
@@ -309,11 +308,10 @@ function App() {
               <div className="service-icon">
                 <img src="https://cdn-icons-png.flaticon.com/512/3198/3198991.png" />
               </div>
-               <h3>3d modelling </h3>
+               <h3> modelling </h3>
               <span className="service-number">[04]</span>
               <p>
-                We prepare the technical drawings and documents needed for permitting and construction.
-                We also coordinate with consultants to ensure all plans are aligned and ready for review.
+                Developing 3d digital and physical models to visualize and explore architectural ideas
               </p>
             </div>
 
@@ -324,8 +322,7 @@ function App() {
               <h3>Graphic design </h3>
               <span className="service-number">[05]</span>
               <p>
-                During the build, we stay closely involved. From reviewing shop drawings to site visits and
-                clarifying design intent, we make sure the finished product aligns with the original vision.
+                  Designing visually compelling graphics for branding, presentations and communication.
               </p>
             </div>
 
@@ -336,8 +333,7 @@ function App() {
               <h3>Sketching</h3>
               <span className="service-number">[06]</span>
               <p>
-                We offer full interior design services — including built-ins, lighting layouts, and finishes —
-                that carry the architectural ideas through to every surface and touchpoint inside the home.
+                  Expressing design concepts quickly and creatively through freehand drawing
               </p>
             </div>
 
@@ -345,11 +341,10 @@ function App() {
               <div className="service-icon">
                 <img src="https://www.svgrepo.com/show/508769/autocad.svg" alt="Post-Occupancy Support" />
               </div>
-              <h3>Auto cad</h3>
+              <h3>Autodesk</h3>
               <span className="service-number">[07]</span>
               <p>
-                Once you've moved in, we remain available for small updates, clarifications, or seasonal adjustments.
-                Good design continues to evolve with how you live.
+                Skilled in using Autodesk tools (e.g Revit, Autocad) for drafting, modelling, and architectural visualization
               </p>
             </div>
 
@@ -357,11 +352,10 @@ function App() {
               <div className="service-icon">
                 <img src="https://www.svgrepo.com/show/361494/figma-logo.svg" />
                 </div>
-              <h3>Figma</h3>
+              <h3>Sketch Up</h3>
               <span className="service-number">[08]</span>
               <p>
-                Once you've moved in, we remain available for small updates, clarifications, or seasonal adjustments.
-                Good design continues to evolve with how you live.
+                Skilled in its use for modelling and architectural visualization
               </p>
               </div>
 
@@ -372,8 +366,7 @@ function App() {
               <h3>Canva</h3>
               <span className="service-number">[09]</span>
               <p>
-                Once you've moved in, we remain available for small updates, clarifications, or seasonal adjustments.
-                Good design continues to evolve with how you live.
+                Experienced in creating visually appealing designs and presentations with speed and accuracy
               </p>
               </div>
           </div>
@@ -442,12 +435,13 @@ function App() {
         <div className="container">
           <div className="footer-content">
             <div className="newsletter">
-              <h3>Reach out</h3>
-              <p>Send us a message, idea quotation and lets get started </p>
-              <form className="newsletter-form">
-                <input type="email" placeholder="send blessing a message" />
-                <button type="submit">→</button>
-              </form>
+              <h3>Social handles</h3>
+               <div className="footer-col">
+                
+                 <a href="mailto:blessingomojowo@student.oauife.edu.ng">Email me</a>
+                <a href="https://www.linkedin.com/in/blessing-omojowo/">linkedIn</a>
+                <a href="https://www.instagram.com/blessing_omojowo/?hl=en">Instagram</a>
+              </div>
             </div>
 
             <div className="footer-nav">
@@ -462,8 +456,6 @@ function App() {
                 <h4>Phone</h4>
                 <a href="tel:1234567890">08163356466</a>
 
-                <h4>Email</h4>
-                <a href="mailto:hello@aaronrolston.com">blessingomojowo@student.oauife.edu.ng</a>
               </div>
 
               <div className="footer-col">
