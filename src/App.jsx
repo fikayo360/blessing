@@ -113,7 +113,7 @@ function App() {
               <a id='downloadLink' href='https://drive.google.com/drive/folders/1-CACK8SRSU5VEccXyyXwlvg5BQSSBpvn?usp=sharing'>Download my portfolio </a>
             </div>
             <div className="location">
-              <span>Architect based in</span>
+              <span>Architecture student based in</span>
               <span>Lagos</span>
             </div>
           </div>
@@ -157,7 +157,8 @@ function App() {
         <div className="container">
           <div className="section-label">[02] My Portfolio</div>
           <h2 className="portfolio-title">
-            With over 3 years experience as an architect, i am devoted to helping clients build more aesthetically pleasing spaces.
+            With over 2 years of experience and more than 20 design studio projects, i have 
+            developed strong design skills and the ability to deliver real value in the architectural field.
           </h2>
 
           <div className="portfolio-grid">
@@ -391,26 +392,23 @@ function App() {
             <div className="portfolio-item">
               <img src="cert1.jpeg" alt="Open Coworking" />
               <div className="portfolio-info">
-                <h3>OAU STAR-OVERALL BEST 200 LEVEL STUDENT</h3>
-                <span>2020</span>
+                <h3> HEADING THE GRAPHICS DESIGN UNIT(2024)</h3>
               </div>
             </div>
 
             <div className="portfolio-item">
               <img src="cert2.jpeg" alt="Brady Residence" />
               <div className="portfolio-info">
-                <h3>HIGHEST C.GPA IN 200 LEVEL</h3>
-                <span>2018</span>
+                <h3> OAU STAR-OVERALL BEST 200 LEVEL STUDENT</h3>
+              
               </div>
             </div>
 
             <div className="portfolio-item">
               <img src="cert3.jpeg" alt="Brady Residence" />
               <div className="portfolio-info">
-                <h3>CERTIFICATE OF PARTICIPATION IN DESIGN
-                 COMPETITION AND FIRST PLACE WINNER OF THE DESIGN
-                COMPETITION(2025)</h3>
-                <span>2018</span>
+                <h3>HIGHEST C.GPA IN 200 LEVEL</h3>
+                
               </div>
             </div>
 
@@ -418,18 +416,18 @@ function App() {
               <img src="cert4.jpeg" alt="Brady Residence" />
               <div className="portfolio-info">
                 <h3>CERTIFICATE OF PARTICIPATION IN DESIGN
-                   COMPETITION AND SECOND PLACE WINNER OF THE
-                  DESIGN COMPETITION( 2024)</h3>
-                <span>2018</span>
+                 COMPETITION AND FIRST PLACE WINNER OF THE DESIGN
+                COMPETITION(2025)</h3>
               </div>
             </div>
 
             <div className="portfolio-item">
               <img src="cert5.jpeg" alt="Brady Residence" />
               <div className="portfolio-info">
-                <h3>HEADING THE GRAPHI  DESIG UNIT(
-                     2024)</h3>
-                <span>2018</span>
+                <h3>CERTIFICATE OF PARTICIPATION IN DESIGN
+                   COMPETITION AND SECOND PLACE WINNER OF THE
+                  DESIGN COMPETITION( 2024)</h3>
+               
               </div>
             </div>
 
