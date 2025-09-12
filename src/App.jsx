@@ -297,7 +297,7 @@ function App() {
               <div className="service-icon">
                 <img src="https://cdn4.iconfinder.com/data/icons/architecture-17/64/Architect-engineer-blueprint-draft-design-512.png" />
               </div>
-               <h3>drating</h3>
+               <h3>drafting</h3>
               <span className="service-number">[04]</span>
               <p>
                 creating acuurate technical drawings that clearly communicate design intent and construction details.
@@ -350,7 +350,7 @@ function App() {
 
              <div className="service-card">
               <div className="service-icon">
-                <img src="https://www.svgrepo.com/show/361494/figma-logo.svg" />
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi3iQeCBtULO3SQY0CBIaTMRHM5DMK9yUuzA&s" />
                 </div>
               <h3>Sketch Up</h3>
               <span className="service-number">[08]</span>
@@ -460,7 +460,7 @@ function App() {
 
               <div className="footer-col">
                 <h4>Address</h4>
-                <p>26, <br /> Ago palace way, Okota , Lagos State, Nigeria</p>
+                <p> Ago palace way, Okota , Lagos, Nigeria</p>
               </div>
             </div>
           </div>
