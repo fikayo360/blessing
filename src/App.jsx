@@ -383,6 +383,19 @@ function App() {
           <div className="portfolio-grid">
             
             <div className="portfolio-item">
+              <img src="certq.jpg" alt="Open Coworking" />
+              <div className="portfolio-info">
+                <h3> First place winner - Ifasa design competition. Beyond build 2025</h3>
+              </div>
+            </div>
+
+            <div className="portfolio-item">
+              <img src="certw.jpg" alt="Open Coworking" />
+              <div className="portfolio-info">
+                <h3> Second place winner - Ifasa design competition. Bridging boundaries 2024</h3>
+              </div>
+            </div>
+            <div className="portfolio-item">
               <img src="cert1.jpeg" alt="Open Coworking" />
               <div className="portfolio-info">
                 <h3> HEADING THE GRAPHICS DESIGN UNIT(2024)</h3>
